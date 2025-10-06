@@ -650,3 +650,5 @@ See [Get started](https://lit.dev/docs/getting-started/) on the Lit site for mor
 ## License
 
 [MIT](./LICENSE)
+
+<!-- Auto-update: 2025-10-07T03:35:48.933964 -->
